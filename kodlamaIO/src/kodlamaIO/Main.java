@@ -14,7 +14,7 @@ public class Main {
 		
 		User[] users={sevim,engin};
 		
-		
+	
 		
 		UserManager user=new UserManager();
 		user.add(sevim);
